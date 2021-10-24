@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lynzam
+- 👋 Hi, I’m Lyn
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on coding
+- 🌱 I’m currently learning html,css and js, etc.
+- 💞️ I’m looking to collaborate on coding for me to improve more.
 - 📫 How to reach me : zamoramarilynm@gmail.com
 
 <!---
